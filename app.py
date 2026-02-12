@@ -20,7 +20,7 @@ st.markdown("""
         font-family: 'Inter', sans-serif;
     }
     .stMetric {
-        background-color: white;
+        background-color: black;
         color: black !important;
         padding: 15px;
         border-radius: 10px;
