@@ -28,7 +28,7 @@ st.markdown("""
     }
     .health-card {
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        color: white;
+        color: black;
         padding: 20px;
         border-radius: 15px;
         text-align: center;
