@@ -61,7 +61,7 @@ st.title("🛡️ High-Performance Data Quality Guard")
 st.caption("National Vocational Competition | Senior Data Engineer Edition")
 
 # Data Loading Progress
-DATA_PATH = r"c:\Users\PC-01\Documents\Anti Gravity\1_crash_reports.csv"
+DATA_PATH = r"1_crash_reports.csv"
 
 if not os.path.exists(DATA_PATH):
     st.error(f"❌ Data file not found at {DATA_PATH}")
