@@ -35,7 +35,7 @@ st.markdown("""
         margin-bottom: 25px;
     }
     .insight-card {
-        background-color: #ffffff;
+        background-color: #000000;
         padding: 20px;
         border-radius: 10px;
         border-left: 5px solid #ff7f0e;
